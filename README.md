@@ -1,6 +1,6 @@
 # algo-quiz
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/datewu/mbdpay?style=flat-square)](https://goreportcard.com/report/github.com/datewu/mbdpay)
+[![Go Report Card](https://goreportcard.com/badge/github.com/datewu/algo-quiz?style=flat-square)](https://goreportcard.com/report/github.com/datewu/algo-quiz)
 
 ## Description
 
